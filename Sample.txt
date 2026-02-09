@@ -1,6 +1,0 @@
-This is sample file.
-Line number 1
-Line number 2
-Line number 3
-Line number 4
-Line number 5
