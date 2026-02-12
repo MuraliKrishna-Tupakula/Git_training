@@ -1,2 +1,0 @@
-add lin1
-add lin2
